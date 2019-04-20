@@ -1,0 +1,5 @@
+language : java
+suda : false 
+script : "mvn -f OrnekMavenProje/pom.xml clean install"
+jdk:
+   - oraclejdk8
